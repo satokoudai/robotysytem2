@@ -9,7 +9,6 @@ from std_msgs.msg import Int32
 n = 0
 
 
-
 def cb(message):
 
     global n
